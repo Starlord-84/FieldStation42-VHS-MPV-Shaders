@@ -41,4 +41,6 @@ These shaders were developed with the assistance of ChatGPT.
 
 The overall design, effect tuning, testing, debugging, and final implementation were done by me.
 
-## You can change speed,intensity and more inside of each .glsl file (e.g. ##define speed 2.5)
+## You can change speed,intensity and more inside of each .glsl file 
+
+(e.g. ##define speed 2.5)
