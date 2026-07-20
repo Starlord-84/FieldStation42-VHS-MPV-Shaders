@@ -33,3 +33,10 @@ Color Bleed
         ↓
 CRT Display
 ### The shader order is intentional. Changing the order will significantly alter the final image.
+
+
+## Acknowledgements and Credits
+
+These shaders were developed with the assistance of ChatGPT.
+
+The overall design, effect tuning, testing, debugging, and final implementation were done by me.
