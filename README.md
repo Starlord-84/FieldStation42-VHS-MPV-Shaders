@@ -32,3 +32,4 @@ VHS Signal Processing
 Color Bleed
         ↓
 CRT Display
+### The shader order is intentional. Changing the order will significantly alter the final image.
