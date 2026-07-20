@@ -1,0 +1,15 @@
+FieldStation42 VHS & CRT Shader Collection
+
+A set of custom MPV GLSL shaders designed to emulate authentic analog video.
+
+Features:
+• CRT display simulation
+• RF chroma interference
+• VHS tracking errors
+• Horizontal VHS blur
+• Broadcast-style analog artifacts
+
+Unlike most VHS filters, these shaders aim to reproduce subtle imperfections found in real consumer VHS tapes and late 80s/early 90s television broadcasts rather than heavily degraded footage.
+
+Originally developed for the FieldStation42 retro television project.
+
