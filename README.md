@@ -11,7 +11,7 @@ For the intended FieldStation42 analog video pipeline, use the shaders in the fo
 4. tracking.glsl
 5. VHSv1.1.glsl
 6. colorbleed.glsl
-7. crt-lottes.glsl
+7. crt.glsl
 
 This order reproduces the analog signal chain used in the FieldStation42 project.
 
