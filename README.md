@@ -3,7 +3,7 @@ A collection of MPV GLSL shaders that recreate the look of mid and early 80s CRT
 
 # Recommended Shader Order
 
-For the intended FieldStation42 analog video pipeline, use the shaders in the following order:
+For the intended FieldStation42 analog video effect, use the shaders in the following order:
 
 1. Chroma_noise.glsl
 2. VHS_blur.glsl
@@ -13,7 +13,6 @@ For the intended FieldStation42 analog video pipeline, use the shaders in the fo
 6. colorbleed.glsl
 7. crt.glsl
 
-This order reproduces the analog signal chain used in the FieldStation42 project.
 
 Signal flow:
 
