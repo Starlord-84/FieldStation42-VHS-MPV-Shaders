@@ -48,6 +48,7 @@ The overall design, effect tuning, testing, debugging, and final implementation 
 ## Preview
 ![Preview](Preview/Preview.png.png)
 ![Preview](Preview/Preview2.png.jpg)
+![Preview](Preview/preview4.jpg)
 ![Preview](Preview/Preview3.png.jpg)
 
 
