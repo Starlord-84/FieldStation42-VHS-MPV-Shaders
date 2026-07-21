@@ -4,6 +4,8 @@ A collection of MPV GLSL shaders that recreate the look of mid and early 80s CRT
 
 ## Preview
 ![Preview](Preview/Preview.png.png)
+![Preview](Preview/Preview.png2.jpg)
+![Preview](Preview/Preview3.png.jpg)
 
 
 # Recommended Shader Order
