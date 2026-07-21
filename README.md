@@ -1,13 +1,6 @@
 # FieldStation42-VHS-MPV-Shaders
 A collection of MPV GLSL shaders that recreate the look of mid and early 80s CRT televisions, VHS tapes, and analog broadcast video. Developed for the FieldStation42 retro TV project with  focus on authenticity rather than exaggerated VHS effects.
 
-
-## Preview
-![Preview](Preview/Preview.png.png)
-![Preview](Preview/Preview2.png.jpg)
-![Preview](Preview/Preview3.png.jpg)
-
-
 # Recommended Shader Order
 
 For the intended FieldStation42 analog video pipeline, use the shaders in the following order:
@@ -51,3 +44,10 @@ The overall design, effect tuning, testing, debugging, and final implementation 
 ## You can change speed,intensity and more inside of each .glsl file 
 
 (e.g. ##define speed 2.5)
+
+## Preview
+![Preview](Preview/Preview.png.png)
+![Preview](Preview/Preview2.png.jpg)
+![Preview](Preview/Preview3.png.jpg)
+
+
